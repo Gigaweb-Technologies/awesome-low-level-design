@@ -1,6 +1,5 @@
 .idea/
 
-.vscode/
 
 solutions/java/.idea/
 solutions/java/out/
@@ -9,3 +8,6 @@ solutions/c++/.idea/
 
 solutions/c#/bin/
 solutions/c#/obj/
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
